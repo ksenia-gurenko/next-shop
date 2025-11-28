@@ -1,4 +1,4 @@
-# Shop Next - Product Management SPA
+#  Next Shop - Product Management SPA
 
 SPA приложение для управления продуктами с использованием современного стека технологий.
 
